@@ -1,18 +1,13 @@
 {
-  "posts": [
+  "accounts": [
     {
-      "title": "football news",
-      "author": "Fabrizio Romanio",
-      "content": "transfer window",
-      "image": "https://via.placeholder.com/150",
-      "id": 1
-    },
-    {
-      "title": "kidagaa kimemwozea",
-      "author": "ken walibora",
-      "content": "tahmthilia ",
-      "image": "https://via.placeholder.com/150",
-      "id": 2
+      "id": 1,
+      "cardNumber": "1234567812345678",
+      "pin": "1234",
+      "accountHolder": "John Smith",
+      "balance": 5000.00,
+      "accountNumber": "000123456789",
+      "transactions": []
     }
   ]
 }
