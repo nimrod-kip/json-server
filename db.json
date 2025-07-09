@@ -1,12 +1,18 @@
 {
-  "apiEndpoint" : [
+  "posts": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "title": "football news",
+      "author": "Fabrizio Romanio",
+      "content": "transfer window",
+      "image": "https://via.placeholder.com/150",
+      "id": 1
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "title": "kidagaa kimemwozea",
+      "author": "ken walibora",
+      "content": "tahmthilia ",
+      "image": "https://via.placeholder.com/150",
+      "id": 2
     }
   ]
 }
